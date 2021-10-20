@@ -1,0 +1,5 @@
+{
+    "url" : "http://3.109.157.15:8000",
+    "webSocketUrl" : "ws://3.109.157.15:8000/notify/",
+    "GMapAPIKey": "AIzaSyCpAMGuZlY5oYDrXPwe5VdFfBLT-cBEfn8"
+}
